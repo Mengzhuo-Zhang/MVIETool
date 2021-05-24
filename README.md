@@ -1,6 +1,6 @@
 # MVIETool
 Multivariable Integrated Evaluation Tool
-(1) 'MVIETool(v1.o)-NCL': Multivariable Integrated Evaluation Tool version 1.o coded with NCL
+(1) 'MVIETool(v1.o)-NCL': Multivariable Integrated Evaluation Tool version 1.0 coded with NCL
 
 (2) 'MVIETool(v1.o)-Python3': Multivariable Integrated Evaluation Tool version 1.o coded with Python
 
